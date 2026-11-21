@@ -49,7 +49,7 @@ npm run build
 
 ## Notes
 
-- This is intentionally a skeletal, mock-data-only prototype for AI evaluation and iteration.
+- This is intentionally a skeletal, mock-data-only prototype
 - No backend and no external API calls.
 
 ## License
